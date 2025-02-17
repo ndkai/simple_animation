@@ -1,0 +1,29 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "flutter_lints",
+      "rootUri": "file:///Users/duynguyen/.pub-cache/hosted/pub.dev/flutter_lints-1.0.4",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "lints",
+      "rootUri": "file:///Users/duynguyen/.pub-cache/hosted/pub.dev/lints-1.0.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "no_example",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    }
+  ],
+  "generated": "2025-02-13T09:37:07.657419Z",
+  "generator": "pub",
+  "generatorVersion": "3.4.4",
+  "flutterRoot": "file:///Users/duynguyen/Documents/src/flutter",
+  "flutterVersion": "3.22.3",
+  "pubCache": "file:///Users/duynguyen/.pub-cache"
+}
